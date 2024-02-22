@@ -1,4 +1,4 @@
 # Python Remove Photo Background
-Python Remove Photo Background For this you need Python 3.8 to Python 3.11 and the Pillow and rembg libraries
+Python Remove Photo Background For this you need Python 3.8 to Python 3.12 and the Pillow and rembg libraries
 
 pip install Pillow rembg
